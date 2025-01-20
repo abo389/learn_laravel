@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     @viteReactRefresh
     @vite('resources/js/app.jsx')
+    @viteReactRefresh
     @inertiaHead
 </head>
 <body>
